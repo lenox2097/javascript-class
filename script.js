@@ -12,7 +12,10 @@ let b = 20
 
 let c = a + b
 
+let d =  b - a
+
 
 console.log("the result of "+ a + "plus" + b + "is"+ c )
 
 alert("the result of "+ a + " plus " + b + " is "+ c )
+alert("the result of "+ b + " minus " + a + " is "+ d )
